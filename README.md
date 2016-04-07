@@ -1,3 +1,2 @@
 # hunt
-Game in Javascript
-Web Programming 2
+Web Programming Assignment 2
